@@ -1,15 +1,19 @@
 ### Hello there 👋
 ### I'm Edward Josh C. Hermano
-I am a senior student at San Jose State University for a Bachelor of Science in Software Engineering.
-I am planning to graduate in May of 2023 with a minor in Mathematics.
+I graduated in December 2022 from San Jose State University with a Bachelor of Science in Software Engineering.
 
 I am proficient in Java programming. I have had many courses learning and using Java programming.
 
-I have limited experience in JavaScript, HTML, and CSS.
-    I completed a course project (Schedule.me) where I built certain functional UI elements using React.js.
-    In my own time, I dabbled to create some HTML websites with JS scripts.
+I am also proficient in JavaScript, HTML, and CSS.
+I am also well-versed in React, MongoDB, and Node.
 
-I am currently taking a course on Python.
+I have completed multiple course projects (Schedule.me and Let's Eat) using the MERN stack framework.
+Schedule.me was a team scheduling web application where I built a portion of the app's user interface.
+Let's Eat was a food-delivery ordering web application where I built plenty of the app's user interface, and the app's database.    
+    
+In my spare time, I work on my portfolio website (work-in-progress) at https://ewjosh.github.io/.
+
+I also have worked with Python, C/C++, and C#.
 
 <!--
 **EwJosh/EwJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
